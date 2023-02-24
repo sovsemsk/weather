@@ -1,0 +1,4 @@
+create_last_hour_temperature:
+  cron: "0 * * * *"
+  class: "CreateLastHourTemperatureJob"
+  queue: default

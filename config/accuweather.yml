@@ -1,0 +1,8 @@
+development:
+  api_host: "http://dataservice.accuweather.com/"
+
+test:
+  api_host: "http://dataservice.accuweather.com/"
+
+production:
+  api_host: "http://dataservice.accuweather.com/"
